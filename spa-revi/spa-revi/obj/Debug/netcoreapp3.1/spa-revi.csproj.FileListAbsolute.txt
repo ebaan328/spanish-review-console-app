@@ -1,0 +1,14 @@
+C:\Users\EtnielArturoColónLab\Desktop\spa-revi\spa-revi\bin\Debug\netcoreapp3.1\spa-revi.exe
+C:\Users\EtnielArturoColónLab\Desktop\spa-revi\spa-revi\bin\Debug\netcoreapp3.1\spa-revi.deps.json
+C:\Users\EtnielArturoColónLab\Desktop\spa-revi\spa-revi\bin\Debug\netcoreapp3.1\spa-revi.runtimeconfig.json
+C:\Users\EtnielArturoColónLab\Desktop\spa-revi\spa-revi\bin\Debug\netcoreapp3.1\spa-revi.runtimeconfig.dev.json
+C:\Users\EtnielArturoColónLab\Desktop\spa-revi\spa-revi\bin\Debug\netcoreapp3.1\spa-revi.dll
+C:\Users\EtnielArturoColónLab\Desktop\spa-revi\spa-revi\bin\Debug\netcoreapp3.1\spa-revi.pdb
+C:\Users\EtnielArturoColónLab\Desktop\spa-revi\spa-revi\obj\Debug\netcoreapp3.1\spa-revi.csproj.AssemblyReference.cache
+C:\Users\EtnielArturoColónLab\Desktop\spa-revi\spa-revi\obj\Debug\netcoreapp3.1\spa-revi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EtnielArturoColónLab\Desktop\spa-revi\spa-revi\obj\Debug\netcoreapp3.1\spa-revi.AssemblyInfoInputs.cache
+C:\Users\EtnielArturoColónLab\Desktop\spa-revi\spa-revi\obj\Debug\netcoreapp3.1\spa-revi.AssemblyInfo.cs
+C:\Users\EtnielArturoColónLab\Desktop\spa-revi\spa-revi\obj\Debug\netcoreapp3.1\spa-revi.csproj.CoreCompileInputs.cache
+C:\Users\EtnielArturoColónLab\Desktop\spa-revi\spa-revi\obj\Debug\netcoreapp3.1\spa-revi.dll
+C:\Users\EtnielArturoColónLab\Desktop\spa-revi\spa-revi\obj\Debug\netcoreapp3.1\spa-revi.pdb
+C:\Users\EtnielArturoColónLab\Desktop\spa-revi\spa-revi\obj\Debug\netcoreapp3.1\spa-revi.genruntimeconfig.cache
